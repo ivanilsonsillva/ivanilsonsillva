@@ -1,6 +1,6 @@
-   ## Olá, me chamo Ivanilson Silva  😄
+   ## Olá, tudo bem?  😄
 
-- atualmente estou aprendenod desenvolvimento Web     🖥️ 
+- atualmente estou aprendendo desenvolvimento Web 🖥️ 
 - Formado pela Generation  Brasil  ✔️
 - Pergunte-me sobre algo  📇
 
