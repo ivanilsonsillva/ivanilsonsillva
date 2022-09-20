@@ -1,8 +1,9 @@
    ## Olá, tudo bem?  😄
 
-- atualmente estou aprendendo desenvolvimento Web 🖥️ 
-- Formado pela Generation  Brasil  ✔️
-- Pergunte-me sobre algo  📇
+- Atualmente estou aprendendo desenvolvimento Web. 🖥️ 
+- Formado pela Generation Brasi.l  ✔️
+- Pergunte-me sobre algo.  📇
+- Pronomes: Ele/Dele.
 <div> 
   <a href="https://www.youtube.com/channel/UCT5glPYD7wODX_de_W8Wl5Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lil_nill30/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
