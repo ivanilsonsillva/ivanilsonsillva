@@ -1,4 +1,4 @@
- <h1 align="center">Olá, tudo bem!</h1>
+ <h1 align="center">Olá tudo bem!</h1>
   SOU O IVANILSON, PRAZER!👋<br>
 <br>
 <p>- Atualmente morando no Rio de Janeiro.</p>
@@ -9,7 +9,6 @@
 <br>
 <h4 align="center">
 </h4>
-<br>
 <!--<img src="" width="30%" height="30%" align="right">-->
 <div>
 <a href="https://github.com/ivanilsonsilva">
