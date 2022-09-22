@@ -25,9 +25,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=102&color=currentColor">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=102&color=currentColor">
-  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=102&color=currentColor">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=102&color=currentColor">
-  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=102&color=currentColor">
 </div>
  <br>
   <div align="center">
