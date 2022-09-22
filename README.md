@@ -1,9 +1,11 @@
- <h1 align="center">Olá tudo bem!</h1>
-  OIII SOU O IVANILSON, PRAZER!👋<br>
+ <h1 align="center">Olá, tudo bem!</h1>
+  SOU O IVANILSON, PRAZER!👋<br>
 <br>
-<p>- Aprendendo desenvolvimento Web.</p>
-<p>- Atualmente morando no Rio de Janeiro, RJ.</p>
+<p>- Atualmente morando no Rio de Janeiro.</p>
+<p>- Aprendendo desenvolvimento Web/Generation Brasil.</p>
 <p>- Pronomes Dele/Ele.</p>
+<p>- Buscando estágio.</p>
+
 <br>
 <h4 align="center">
 </h4>
@@ -17,7 +19,7 @@
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  <h3>Ferramentas & Tecnologias</h3>
+  <h3>Ferramentas & Tecnologias estudadas</h3>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
