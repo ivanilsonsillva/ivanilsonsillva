@@ -3,7 +3,7 @@
 <br>
 <p>- Atualmente morando no Rio de Janeiro.</p>
 <p>- Aprendendo desenvolvimento Web/Generation Brasil.</p>
-<p>- Pronomes Dele/Ele.</p>
+<p>- Pronomes Ele/Dele.</p>
 <p>- Buscando estágio.</p>
 
 <br>
