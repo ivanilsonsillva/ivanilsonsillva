@@ -1,21 +1,16 @@
  <h1 align="center">Olá tudo bem!</h1>
   SOU O IVANILSON, PRAZER!👋<br>
 <br>
-<p>- Atualmente morando no Rio de Janeiro.</p>
-<p>- Aprendendo desenvolvimento Web/Generation Brasil.</p>
-<p>- Pronomes Ele/Dele.</p>
-<p>- Buscando estágio.</p>
+<h1 align="center">- Atualmente morando no Rio de Janeiro.</p>
+- Aprendendo desenvolvimento Web/Generation Brasil.</p>
+- Pronomes Ele/Dele.</p>
+- Buscando estágio.</p>
 
 <br>
 <h4 align="center">
 </h4>
 <!--<img src="" width="30%" height="30%" align="right">-->
-<div>
-<a href="https://github.com/ivanilsonsilva">
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Ivanilsonsillva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanilsonsillva&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <h3>Ferramentas & Tecnologias estudadas</h3>
