@@ -7,7 +7,6 @@
 <br>
 <h4 align="center">
 </h4>
-<!--<img src="" width="30%" height="30%" align="right">-->
 </div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
