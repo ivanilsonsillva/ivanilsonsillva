@@ -5,6 +5,12 @@
 - Pronomes Ele/Dele.</p>
 - Buscando estágio.</p>
 <br>
+
+<img height="157em" src="https://github-readme-stats.vercel.app/api?username=ivanilsonsillva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanilsonsillva&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+</div>
 <h4 align="center">
 </h4>
 </div>
