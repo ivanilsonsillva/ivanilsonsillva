@@ -1,8 +1,7 @@
  <h1 align="center">Olá tudo bem!</h1>
 <br>
 <h1 align="center">- Atualmente morando no Rio de Janeiro.</p>
-- Aprendendo desenvolvimento Web/Generation Brasil.</p>
-- Pronomes Ele/Dele.</p>
+-  Formado pela Generation Brasil.</p>
 - Buscando estágio.</p>
 <br>
 
